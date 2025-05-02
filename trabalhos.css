@@ -7,9 +7,7 @@ h1 {
     color: blue;
     display: flex;
     justify-content: center;
-    /* border: 1px solid; */
     padding: 10px;
-    /* box-shadow: 5px 10px #888888; */
     text-shadow: 1px 2px #888888;
 }
 
@@ -21,14 +19,6 @@ h1 {
     transform: scale(1.5);
 }
 }
-
-/* @media (max-width: 400px) {
-    .trabalhos__elementos {
-        border: 1px solid;
-        padding: 5px;
-        box-shadow: 5px 10px #888888;
-    }
-} */
 
 p {
     display: flex;
